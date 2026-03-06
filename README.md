@@ -1,7 +1,11 @@
 # Car Sales Analysis (2022–2023)
+
 Data Source: [Kaggle — Car Sales Report](https://www.kaggle.com/datasets/missionjee/car-sales-report)
+
 Tools: Python (pandas, numpy, matplotlib, seaborn, scipy), SQL (SQLite), Tableau Public  
+
 Author: Courtney Reed  
+
 GitHub: [reedc02](https://github.com/reedc02)  
 
 
@@ -89,4 +93,4 @@ This dashboard includes:
 3. Copy and run queries from `sql/car_sales_queries.sql`
 
 ### Tableau
-1. Open `tableau/car_sales_analysis.twbx` in [Tableau Public Desktop](https://public.tableau.com/en-us/s/download) OR see the published version via the dashboard link above# car-sales-analysis
+1. Open `tableau/car_sales_analysis.twbx` in [Tableau Public Desktop](https://public.tableau.com/en-us/s/download) OR see the published version via the dashboard link above
